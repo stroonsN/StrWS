@@ -1,2 +1,2 @@
-# FreezeWS
-Freeze PHP Integrated Web Server
+# StrWS
+Str PHP Integrated Web Server
