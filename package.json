@@ -1,0 +1,31 @@
+{
+  "name": "freezews",
+  "version": "1.0.0",
+  "description": "Freeze PHP Integrated Web Server",
+  "main": "Server.js",
+  "scripts": {
+    "start": "sudo service apache2 stop && sudo node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreXLin85/FreezeWS.git"
+  },
+  "keywords": [
+    "freeze",
+    "web",
+    "server",
+    "php",
+    "http"
+  ],
+  "author": "GreXLin85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreXLin85/FreezeWS/issues"
+  },
+  "homepage": "https://github.com/GreXLin85/FreezeWS#readme",
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  }
+}
