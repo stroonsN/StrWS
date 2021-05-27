@@ -1,4 +1,4 @@
-# StrWS
+# [WIP] StrWS
 Str PHP Integrated Web Server
 
 requirements: 
